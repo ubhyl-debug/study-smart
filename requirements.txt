@@ -1,0 +1,9 @@
+moviepy
+openai
+subprocess
+os
+base64
+subprocess
+dataclasses
+typing
+functools
